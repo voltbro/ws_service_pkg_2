@@ -3,8 +3,8 @@
 import time
 import tqdm
 
-configuration_number = "0xFA02"
-version = "0.2.6"
+configuration_number = "0xFAAB"
+version = "0.2.7"
 
 print("Service package 2: ver. {}".format(version))
 time.sleep(0.5)
@@ -26,3 +26,4 @@ time.sleep(0.5)
 print("Service package 2: successfully configured!")
 time.sleep(0.5)
 print("Service package 2: configuration checksum : {}".format(configuration_number))
+print("Service package 2: please push Ctrl+C to finish")
