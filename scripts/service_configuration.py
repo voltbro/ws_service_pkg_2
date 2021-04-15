@@ -3,8 +3,8 @@
 import time
 import tqdm
 
-configuration_number = "0xFA02"
-version = "0.2.8"
+configuration_number = "0xF019C7D5"
+version = "0.2.9"
 
 print("Service package 2: ver. {}".format(version))
 time.sleep(0.5)
